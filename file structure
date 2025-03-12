@@ -1,0 +1,13 @@
+image-classification-dogs-cats/
+│── dataset/                     # Folder containing images
+│   ├── PetImages/
+│   │   ├── Cat/                 # Cat images
+│   │   ├── Dog/                 # Dog images
+│── notebooks/                    # Jupyter Notebooks for training & testing
+│── models/                       # Trained model files
+│── scripts/                      # Python scripts for preprocessing & training
+│── train.py                       # Model training script
+│── test.py                        # Model inference script
+│── requirements.txt               # List of dependencies
+│── README.md                      # Project documentation
+│── LICENSE                        # Open-source license
